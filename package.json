@@ -1,0 +1,22 @@
+{
+  "name": "solana_course",
+  "version": "1.0.0",
+  "description": "A Solana Course in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xking-sol/Solana_Course.git"
+  },
+  "author": "0xking_sol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xking-sol/Solana_Course/issues"
+  },
+  "homepage": "https://github.com/0xking-sol/Solana_Course#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.75.0"
+  }
+}
